@@ -334,5 +334,5 @@ Key Python packages:
 - httpx - Async HTTP client for AI narrator
 - d3 - Frontend visualizations
 
-See `requirements.txt` or environment-specific dependency files.
+See `requirements.txt` or environment-specific dependency files
 
